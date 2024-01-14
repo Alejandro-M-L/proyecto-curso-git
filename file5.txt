@@ -1,0 +1,1 @@
+hacer git push y git pull desde github
